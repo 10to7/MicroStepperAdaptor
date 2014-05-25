@@ -1,0 +1,45 @@
+Cmp-Mod V01 Created by CvPcb (2014-03-19 BZR 4756)-product date = Sun 25 May 2014 18:24:08 BST
+
+BeginCmp
+TimeStamp = /538213B3;
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = 10to7_sm_standard:SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5382163D;
+Reference = P1;
+ValeurCmp = CONN_6;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /53821410;
+Reference = R1;
+ValeurCmp = 100;
+IdModule  = 10to7_sm_standard:SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5382147F;
+Reference = R2;
+ValeurCmp = 100;
+IdModule  = 10to7_sm_standard:SM0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5382133B;
+Reference = U1;
+ValeurCmp = QSBT40;
+IdModule  = 10to7_sm_standard:SOT363;
+EndCmp
+
+BeginCmp
+TimeStamp = /5382143F;
+Reference = U2;
+ValeurCmp = 2_Phase_Motor;
+IdModule  = 10to7_inductor:Micro_Motor_2_Phase;
+EndCmp
+
+EndListe
